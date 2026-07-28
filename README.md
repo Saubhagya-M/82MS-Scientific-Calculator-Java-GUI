@@ -56,8 +56,8 @@ A desktop-based **Scientific Calculator** developed using **Java Swing** that pe
 
 ## 📷 Application Preview
 
-*<img width="955" height="617" alt="image" src="https://github.com/user-attachments/assets/132594f7-60a2-4d42-b157-f2d2c233056d" />
-*
+<img width="955" height="617" alt="image" src="https://github.com/user-attachments/assets/132594f7-60a2-4d42-b157-f2d2c233056d" />
+
 
 ---
 
